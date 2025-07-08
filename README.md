@@ -10,7 +10,7 @@ Nele é feita a análise do dataset Predictive Maintenance Dataset - Air Compres
 
 O trabalho está dividido em tópicos, conforme a seguir:
 
-1. Definição do problema: Este tópico apresenta o escopo do projeto, abordando o uso do dataset AI4I 2020 Predictive Maintenance. O objetivo é analisar e prever falhas em máquinas industriais, identificando padrões que sinalizem a ocorrência de machine_failure por meio de variáveis contínuas e categóricas.
+1. Definição do problema: Este tópico apresenta o escopo do projeto, abordando o uso do dataset Predictive Maintenance Dataset - Air Compressor. O objetivo é analisar e prever falhas em máquinas industriais, identificando padrões que sinalizem a ocorrência de machine_failure por meio de variáveis contínuas e categóricas.
 
 2. Coleta dos Dados: Detalha o processo de aquisição e carregamento do dataset, utilizando o Google Colab e Python. As bibliotecas principais empregadas são Pandas, NumPy, Matplotlib, Seaborn e scikit-learn.
 
